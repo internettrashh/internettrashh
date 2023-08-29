@@ -74,7 +74,7 @@
 ###
 
 <div align="center">
-  <img src="spotify-readme-sepia-three.vercel.app?theme=dark" alt="Widget with the current Spotify song"  />
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31kmjmc65lnnh56gk2owlegd5why)
 </div>
 
 ###
