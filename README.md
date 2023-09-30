@@ -71,7 +71,7 @@
 
 ###
 <div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/" alt="Spotify recently played"  />
+  <img src="https://spotify-g78p-dnrp745u9-internettrashh.vercel.app/now-playing" alt="Spotify recently played"  />
 </div>
 
 ###
