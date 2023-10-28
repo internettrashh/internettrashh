@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">🧐 More About Me:<br>* 🔭   I’m currently working on  a spotify api call project;<br>* 🤝   I’m looking to collaborate on github projects;<br>* 🌱   I’m currently learning beautiful soup;<br>* 👨🏻‍💻   Most of my projects are available on Github;<br>* 💬   Ask me about anything tech and robotics related, I am happy to help;<br>* 📫   Feel free to ping me on twitter (x);<br>* 🎧   When I am free, I like to listen to music, checkout some of my top tracks;</p>
+<p align="left">🧐 More About Me:<br>* 🔭   I’m currently working on an AI image generation app using stable diffusion  ;<br>* 🤝   I’m looking to collaborate on github projects;<br>* 🌱   I’m currently learning hugging face transformers ;<br>* 👨🏻‍💻   Some of my projects are available on Github;<br>* 💬   Ask me about anything tech and robotics related, I am happy to help;<br>* 📫   Feel free to ping me on twitter (x);<br>* 🎧   When I am free, I like to listen to music;</p>
 
 ###
 
