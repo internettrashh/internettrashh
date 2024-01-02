@@ -82,6 +82,9 @@
 
 
 ###
+<div align="center">
+  <img src="https://spotify-g78p-dnrp745u9-internettrashh.vercel.app/now-playing" alt="Spotify recently played"  />
+</div>
 
 
 ###
