@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h2 align="left">Hi 👋! My name is Nischal and I'm a noob dev and a bot maker  from  Goa;</h2>
+<h2 align="left">Hi 👋! My name is Nischal and I'm a budding dev and a bot maker  from  Goa;</h2>
 
 ###
 
