@@ -82,9 +82,9 @@
 
 
 ###
-<div align="center">
-  <img src="https://spotify-g78p-dnrp745u9-internettrashh.vercel.app/now-playing" alt="Spotify recently played"  />
-</div>
+<a href="https://github.com/tthn0/Spotify-Readme">
+  <img src="https://spotify-readme-b9e9j7x7w-internettrashh.vercel.app/api" alt="Current Spotify Song">
+</a>
 
 
 ###
