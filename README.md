@@ -80,7 +80,7 @@
 ###
 
 
-<p align="left">Currently listening ;</p>
+<p align="left">🎵Currently listening ;</p>
 
 ###
 <a href="https://github.com/tthn0/Spotify-Readme">
